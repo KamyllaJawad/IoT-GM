@@ -7,7 +7,7 @@ Criar um circuito no Tinkercad que simula um sensor de temperatura (usando um po
 
 ### **Materiais Necessários:**
 1. Arduino Uno
-2. Potenciômetro (para simular a leitura de temperatura)
+2. Potenciômetro e leitor de temperatura
 3. Fios de conexão
 
 ---
