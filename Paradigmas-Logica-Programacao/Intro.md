@@ -51,7 +51,19 @@ void loop() {
 Agora, vamos simular esse código no **Tinkercad**!  
 
 ### 1️⃣ **Acesse o site do Tinkercad:**  
-🔗 [https://www.tinkercad.com/](https://www.tinkercad.com/)  
+
+Instruções para o aluno
+
+Link da aula:
+
+Vá para sua aula com este link: 
+🔗 [https://www.tinkercad.com/](https://www.tinkercad.com/joinclass/FBNIQHSWD)  
+Insira seu Apelido atribuído pelo professor.
+Código de classe:
+
+Vá para https://www.tinkercad.com/ joinclass
+Insira o código de classe: FBNIQHSWD
+Insira seu Apelido atribuído pelo professor.
 
 ### 2️⃣ **Crie um novo circuito:**  
 - Clique em **"Criar Novo Circuito"**  
